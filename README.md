@@ -1,0 +1,2 @@
+Este proyecto es una implementación avanzada de ajedrez en Java, que extiende las reglas tradicionales incorporando un sistema dinámico de habilidades especiales aplicadas a las piezas, especialmente al Peón Especial.
+El sistema está diseñado siguiendo principios de Programación Orientada a Objetos (POO) y una arquitectura modular que separa claramente las responsabilidades entre lógica de juego, movimiento, habilidades, renderizado y control.
